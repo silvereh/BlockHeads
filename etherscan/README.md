@@ -2,7 +2,7 @@
 # Etherscan APIs, etc
 
 ---
-2021-07-12: Added getLogs.js which shows how to use the Etherscan API to query for logs on the chain.
+2021-07-12: Added `etherscan/getLogs.js`: How to use the Etherscan API to query for logs
 
 ---
 ## getLogs
