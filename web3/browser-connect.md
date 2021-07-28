@@ -149,5 +149,5 @@ window.addEventListener( 'DOMContentLoaded', async () => {
 
 ---
 ## References:
-[MetaMask: The Ethereum Provider](https://docs.metamask.io/guide/ethereum-provider.html#table-of-contents)
-[MDN: window.top](https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+- [MetaMask: The Ethereum Provider](https://docs.metamask.io/guide/ethereum-provider.html#table-of-contents)
+- [MDN: window.top](https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
