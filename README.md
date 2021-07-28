@@ -8,7 +8,7 @@ Repo for collaboration on the BlockHeads Discord Server.
 
 ---
 2021-07-28: Added `web3/browser-connect.html`: 4 steps to connect Web3 to the browser wallet
-- open the [web3](tree/main/web3) folder
+- open the [web3](/silvereh/BlockHeads/tree/main/web3) folder
 
 2021-07-12: Added `etherscan/getLogs.js`: How to use the Etherscan API to query for logs
-- open the [etherscan](tree/main/etherscan) folder
+- open the [etherscan](/silvereh/BlockHeads/tree/main/etherscan) folder
